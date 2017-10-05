@@ -2,13 +2,13 @@
   "name": "node-login",
   "version": "1.5.0",
   "description": "A template for quickly building login systems on top of Node.js & MongoDb",
-  "author": "Stephen Braitsch <stephen@braitsch.io>",
+  "author": "",
   "website": {
-    "url": "https://nodejs-login.herokuapp.com"
+    "url": ""
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:braitsch/node-login.git"
+    "url": ""
   },
   "dependencies": {
     "body-parser": "1.14.1",
